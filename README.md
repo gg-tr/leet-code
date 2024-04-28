@@ -26,6 +26,7 @@
 
   [3.无重复字符的最长子串](https://github.com/gg-tr/leet-code/blob/main/%E5%8F%8C%E6%8C%87%E9%92%88/3.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
 
+  [6.Z字形变换](https://github.com/gg-tr/leet-code/blob/main/%E6%A8%A1%E6%8B%9F/6.%20Z%20%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.md)
 
 
 # [动态规划(DP)](https://github.com/gg-tr/leet-code/tree/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)

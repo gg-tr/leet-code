@@ -32,7 +32,10 @@
  
   [8.字符串转换整数 (atoi)](https://github.com/gg-tr/leet-code/blob/main/%E6%A8%A1%E6%8B%9F/8.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).md)
 
+  [9.回文数](https://github.com/gg-tr/leet-code/blob/main/%E6%A8%A1%E6%8B%9F/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md)
+
 # [动态规划(DP)](https://github.com/gg-tr/leet-code/tree/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 
   [5.最长回文子串](https://github.com/gg-tr/leet-code/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
 
+  [10.正则表达式匹配](https://github.com/gg-tr/leet-code/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/10.%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.md)

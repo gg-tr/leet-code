@@ -37,6 +37,8 @@
 
   [12.整数转罗马数字](https://github.com/gg-tr/leet-code/blob/main/%E6%A8%A1%E6%8B%9F/12.%20%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97.md)
 
+  [13.罗马数字转整数](https://github.com/gg-tr/leet-code/blob/main/%E6%A8%A1%E6%8B%9F/13.%20%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.md)
+
 # [动态规划(DP)](https://github.com/gg-tr/leet-code/tree/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 
   [5.最长回文子串](https://github.com/gg-tr/leet-code/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)

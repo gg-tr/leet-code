@@ -44,3 +44,9 @@
   [5.最长回文子串](https://github.com/gg-tr/leet-code/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
 
   [10.正则表达式匹配](https://github.com/gg-tr/leet-code/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/10.%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.md)
+
+  [14. 最长公共前缀](https://github.com/gg-tr/leet-code/blob/main/%E5%AD%97%E5%85%B8%E6%A0%91/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
+
+# [字典树](https://github.com/gg-tr/leet-code/tree/main/%E5%AD%97%E5%85%B8%E6%A0%91)
+
+  [14. 最长公共前缀](https://github.com/gg-tr/leet-code/blob/main/%E5%AD%97%E5%85%B8%E6%A0%91/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
